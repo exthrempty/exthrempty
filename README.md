@@ -11,4 +11,4 @@ Welcome to my GitHub profile! I am Andrew, a 14 y.o. developer with big plans an
 
 
 ## Contact me
-You can either contact me on Telegram ([@periodic_task](https://t.me/periodic_task)) or start following me on Twitter ([@geo_madness](https://twitter.com/geo_madness)). I check my social media as often as possible so that no one goes unanswered.
+You can either contact me on Telegram ([@geo_madness](https://t.me/geo_madness)) or start following me on Twitter ([@geo_madness](https://twitter.com/geo_madness)). I check my social media as often as possible so that no one goes unanswered.
