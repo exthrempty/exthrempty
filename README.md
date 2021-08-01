@@ -4,4 +4,14 @@
 ![Golang](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=go&logoColor=white)
 
 ## Contact me
-Telegram ([@geo_madness](https://t.me/geo_madness)) / Twitter ([@geo_madness](https://twitter.com/geo_madness))
+<a href="https://twitter.com/geo_madness">
+  <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white">
+  </img>
+</a>
+
+<a href="https://t.me/geo_madness">
+  <img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram">
+  </img>
+</a>
+
+
