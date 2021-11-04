@@ -10,7 +10,7 @@
   </img>
 </a>
 
-<a href="https://twitter.com/geo_madness">
+<a href="https://twitter.com/sparkle_pop_">
   <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white">
   </img>
 </a>
