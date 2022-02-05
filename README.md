@@ -34,7 +34,7 @@
   </img>
 </a>
 
-<a href="https://twitter.com/dash_dash_pop_">
+<a href="https://twitter.com/geo_madness">
   <img src="https://img.shields.io/badge/-On%20Twitter-blue?style=flat-square&logo=twitter&logoColor=white">
   </img>
 </a>
